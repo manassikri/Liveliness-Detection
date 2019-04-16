@@ -10,3 +10,5 @@ Run the following command on your prompt.
 python major10.py --prototxt deploy.prototxt --model res10_300x300_ssd_iter_140000.caffemodel --shape-predictor shape_predictor_68_face_landmarks.dat
 
 
+
+
